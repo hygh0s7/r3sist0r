@@ -32,8 +32,7 @@ public class Input_Controller : MonoBehaviour {
         anim = GetComponentInChildren<Animator>();
 
         //these lines are used to calculate screen wrapping
-        float halfPlayerWidth = transform.localScale.x / 2f;
-        screenHalfWidthInWorldUnits = Camera.main.aspect * Camera.main.orthographicSize + halfPlayerWidth;
+        screenHalfWidthInWorldUnits = 10f;
     }
 
     void Update ()

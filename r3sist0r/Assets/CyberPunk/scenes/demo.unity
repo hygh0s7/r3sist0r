@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311947, g: 0.38074005, b: 0.35872722, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -796,3 +796,54 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scrollSpeed: 55
   tileWidth: 352
+--- !u!1001 &2033334777
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4483270016177634, guid: 7a9d9a8ef39ee7d43b7bdb7657b5a523, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4483270016177634, guid: 7a9d9a8ef39ee7d43b7bdb7657b5a523, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4483270016177634, guid: 7a9d9a8ef39ee7d43b7bdb7657b5a523, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4483270016177634, guid: 7a9d9a8ef39ee7d43b7bdb7657b5a523, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4483270016177634, guid: 7a9d9a8ef39ee7d43b7bdb7657b5a523, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4483270016177634, guid: 7a9d9a8ef39ee7d43b7bdb7657b5a523, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4483270016177634, guid: 7a9d9a8ef39ee7d43b7bdb7657b5a523, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4483270016177634, guid: 7a9d9a8ef39ee7d43b7bdb7657b5a523, type: 2}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1964901237708598, guid: 7a9d9a8ef39ee7d43b7bdb7657b5a523, type: 2}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 114207555412090288, guid: 7a9d9a8ef39ee7d43b7bdb7657b5a523,
+        type: 2}
+      propertyPath: moveForce
+      value: 0.3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7a9d9a8ef39ee7d43b7bdb7657b5a523, type: 2}
+  m_IsPrefabAsset: 0
