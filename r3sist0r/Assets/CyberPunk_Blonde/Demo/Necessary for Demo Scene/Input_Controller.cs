@@ -1,4 +1,4 @@
-﻿
+
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
@@ -32,7 +32,7 @@ public class Input_Controller : MonoBehaviour {
         anim = GetComponentInChildren<Animator>();
 
         //these lines are used to calculate screen wrapping
-        screenHalfWidthInWorldUnits = 10f;
+        screenHalfWidthInWorldUnits = 10.55f;
     }
 
     void Update ()
