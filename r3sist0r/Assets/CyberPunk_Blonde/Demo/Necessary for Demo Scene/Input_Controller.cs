@@ -151,19 +151,19 @@ public class Input_Controller : MonoBehaviour {
         }
         #endregion // //controls and sprite manipulation
 
-        //camera wrap
-        #region
+        // //camera wrap
+        // #region
         //controls the camera wrap
-        if (transform.position.x < -screenHalfWidthInWorldUnits)
-        {
-            transform.position = new Vector2(screenHalfWidthInWorldUnits, transform.position.y);
-        }
+        // if (transform.position.x < -screenHalfWidthInWorldUnits)
+        // {
+        //     transform.position = new Vector2(screenHalfWidthInWorldUnits, transform.position.y);
+        // }
 
-        if (transform.position.x > screenHalfWidthInWorldUnits)
-        {
-            transform.position = new Vector2(-screenHalfWidthInWorldUnits, transform.position.y);
-        }
-        #endregion//camera wrap 
+        // if (transform.position.x > screenHalfWidthInWorldUnits)
+        // {
+        //     transform.position = new Vector2(-screenHalfWidthInWorldUnits, transform.position.y);
+        // }
+        // #endregion//camera wrap 
     }
 
 
