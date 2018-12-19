@@ -21,8 +21,24 @@ GameObject:
   - component: {fileID: 4834529530737448}
   - component: {fileID: 61844029081727474}
   - component: {fileID: 212112264344738978}
+  - component: {fileID: 114537186004965076}
   m_Layer: 0
   m_Name: Enemy
+  m_TagString: Enemy
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1282814495486524
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4909771219596120}
+  m_Layer: 0
+  m_Name: ShootyBit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -35,10 +51,24 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1072140547106964}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 11.612, y: 2.829, z: -5}
+  m_LocalPosition: {x: 8.29, y: 1.38, z: -5}
   m_LocalScale: {x: 2.80778, y: 2.9277241, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 4909771219596120}
   m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4909771219596120
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1282814495486524}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4834529530737448}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &61844029081727474
@@ -66,6 +96,17 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.3463896, y: 0.35717794}
   m_EdgeRadius: 0
+--- !u!114 &114537186004965076
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1072140547106964}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d2902bb995964b3a940b9345219e9c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!212 &212112264344738978
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -102,7 +143,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 11
   m_Sprite: {fileID: 21300000, guid: 037f4355400544ba2b7a278f7017ca2f, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.30588236, g: 1, b: 0.9843137, a: 0.7490196}
   m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
