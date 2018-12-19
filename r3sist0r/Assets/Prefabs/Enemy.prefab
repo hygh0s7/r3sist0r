@@ -42,7 +42,7 @@ GameObject:
   - component: {fileID: 114810705992173010}
   m_Layer: 0
   m_Name: ShootyBit
-  m_TagString: Shot
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -110,12 +110,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6980d7def8cc4fba9aa3bf8a0e1d2a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gunDamage: 1
-  fireRate: 2
-  aiming: 1
-  gunEnd: {fileID: 4909771219596120}
-  laserLine: {fileID: 120413125558341080}
-  weaponRange: 10
 --- !u!114 &114537186004965076
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -172,7 +166,7 @@ LineRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 12
+  m_SortingOrder: 10
   m_Positions:
   - {x: 0, y: 0, z: 0}
   - {x: 0, y: 0, z: 1}
@@ -183,17 +177,8 @@ LineRenderer:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-        time: 0.02464056
-        value: 0.24589801
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 0.8098675
-        value: 1
+        time: 0
+        value: 0.9999981
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -236,7 +221,7 @@ LineRenderer:
     numCapVertices: 0
     alignment: 0
     textureMode: 0
-    generateLightingData: 1
+    generateLightingData: 0
   m_UseWorldSpace: 1
   m_Loop: 0
 --- !u!212 &212112264344738978
