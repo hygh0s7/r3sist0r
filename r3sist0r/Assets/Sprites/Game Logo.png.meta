@@ -165,10 +165,10 @@ TextureImporter:
       name: Game Logo_0
       rect:
         serializedVersion: 2
-        x: 102
-        y: 1115
-        width: 9
-        height: 31
+        x: 93
+        y: 1102
+        width: 123
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,7 +176,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42ee87e80674fb04f976e1d1623389f9
+      spriteID: e86c3fa1e591145e7be3b0595c78cad0
       vertices: []
       indices: 
       edges: []
@@ -185,10 +185,10 @@ TextureImporter:
       name: Game Logo_1
       rect:
         serializedVersion: 2
-        x: 182
-        y: 1116
-        width: 9
-        height: 31
+        x: 495
+        y: 1102
+        width: 127
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,7 +196,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a29d867329fd213408c199f91b2ac7aa
+      spriteID: 71dbdfd99199a488b86578c8d5ecb6b2
       vertices: []
       indices: 
       edges: []
@@ -205,10 +205,10 @@ TextureImporter:
       name: Game Logo_2
       rect:
         serializedVersion: 2
-        x: 218
-        y: 1137
-        width: 11
-        height: 11
+        x: 92
+        y: 803
+        width: 125
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,7 +216,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c9bfdf18ba6d1f41841180e635c7e55
+      spriteID: 1c44b3dc944c8403b817cfdf446095ec
       vertices: []
       indices: 
       edges: []
@@ -225,10 +225,10 @@ TextureImporter:
       name: Game Logo_3
       rect:
         serializedVersion: 2
-        x: 502
-        y: 1115
-        width: 9
-        height: 31
+        x: 484
+        y: 797
+        width: 140
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,7 +236,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4af160bb11525b42b5577490e4ec91e
+      spriteID: e5cf1776300c740efad30f083783dfdb
       vertices: []
       indices: 
       edges: []
@@ -245,10 +245,10 @@ TextureImporter:
       name: Game Logo_4
       rect:
         serializedVersion: 2
-        x: 582
-        y: 1116
-        width: 9
-        height: 31
+        x: 88
+        y: 499
+        width: 131
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,7 +256,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 620509fb815f4ab4e852b2be98ed9266
+      spriteID: f3fa0bc75a1394605826b1f81bd05c0e
       vertices: []
       indices: 
       edges: []
@@ -265,10 +265,10 @@ TextureImporter:
       name: Game Logo_5
       rect:
         serializedVersion: 2
-        x: 112
-        y: 1120
-        width: 11
-        height: 17
+        x: 490
+        y: 505
+        width: 124
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -276,7 +276,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: adeaee125014c6140b3d87b263ac1444
+      spriteID: f1ceeaa9e26f24c818b5f1962a161fe8
       vertices: []
       indices: 
       edges: []
@@ -285,10 +285,10 @@ TextureImporter:
       name: Game Logo_6
       rect:
         serializedVersion: 2
-        x: 124
-        y: 1120
-        width: 10
-        height: 17
+        x: 92
+        y: 203
+        width: 123
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,7 +296,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78a4768e2940fa04eb2d7de6d4a608aa
+      spriteID: b444792cc248e4ecaa4937b9334f2620
       vertices: []
       indices: 
       edges: []
@@ -305,10 +305,10 @@ TextureImporter:
       name: Game Logo_7
       rect:
         serializedVersion: 2
-        x: 135
-        y: 1118
-        width: 12
-        height: 13
+        x: 488
+        y: 203
+        width: 124
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -316,1187 +316,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2948fd2082ee6ed4ea8853550e7a6658
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_8
-      rect:
-        serializedVersion: 2
-        x: 149
-        y: 1118
-        width: 8
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ded5ea60e9d6f10429fa0a38f34e604b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_9
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 1120
-        width: 16
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bc8ec52519cf95e448afffe87328398c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_10
-      rect:
-        serializedVersion: 2
-        x: 175
-        y: 1120
-        width: 6
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a0d6e6a7f479ea439369f45851e5ce1
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_11
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 1120
-        width: 11
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e115878f64c9b534e9b11ef77c0f90a2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_12
-      rect:
-        serializedVersion: 2
-        x: 524
-        y: 1120
-        width: 10
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 05c5fb9f11cccc44ba3badc4b2dd3f79
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_13
-      rect:
-        serializedVersion: 2
-        x: 535
-        y: 1118
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b008dab64cfbefd44b8c562e9f7a5fa3
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_14
-      rect:
-        serializedVersion: 2
-        x: 549
-        y: 1118
-        width: 8
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a36da7b5e2a5672448a43d9619ea2315
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_15
-      rect:
-        serializedVersion: 2
-        x: 558
-        y: 1120
-        width: 16
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 866a790f5091c184e986b020f3149ad8
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_16
-      rect:
-        serializedVersion: 2
-        x: 575
-        y: 1120
-        width: 6
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 47f5c6065407fec43946780061996f63
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_17
-      rect:
-        serializedVersion: 2
-        x: 604
-        y: 1124
-        width: 11
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e8b335a24c19e6343b5b65de12a49d36
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_18
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 815
-        width: 9
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e92a745902441bc4bb9c19b74d844ad7
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_19
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 820
-        width: 11
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0008e020bd260c428d47583d707fccf
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_20
-      rect:
-        serializedVersion: 2
-        x: 124
-        y: 820
-        width: 10
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ac0b8021db08c34c96dd8358e38374f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_21
-      rect:
-        serializedVersion: 2
-        x: 135
-        y: 818
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 505e51bb2e24495479f384c293f504c8
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_22
-      rect:
-        serializedVersion: 2
-        x: 149
-        y: 818
-        width: 8
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68bdfcd55017bb749840932dc77ce3d1
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_23
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 820
-        width: 16
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 95fe0fd7f7905c84aa71153bc9cdc9c9
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_24
-      rect:
-        serializedVersion: 2
-        x: 175
-        y: 820
-        width: 6
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e08463b3b9cd9904ba738d42ac9a17cf
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_25
-      rect:
-        serializedVersion: 2
-        x: 182
-        y: 816
-        width: 9
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a7e36afd2c879564faa48286a0d9d82a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_26
-      rect:
-        serializedVersion: 2
-        x: 191
-        y: 814
-        width: 11
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7b0fa94da8943e041b023bf90c7d2ede
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_27
-      rect:
-        serializedVersion: 2
-        x: 502
-        y: 815
-        width: 9
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 73d8b19b41cc3a744845cd76ddd194c0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_28
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 820
-        width: 11
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2a1851f683b276a4d981d2c81d44ad72
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_29
-      rect:
-        serializedVersion: 2
-        x: 524
-        y: 820
-        width: 10
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1bd17d28dc5ca0d4c8f8a7abf2f73100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_30
-      rect:
-        serializedVersion: 2
-        x: 535
-        y: 818
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7a341bc6a2a9c9e4c87c822a1a9bc1b5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_31
-      rect:
-        serializedVersion: 2
-        x: 549
-        y: 818
-        width: 8
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 72fec8e18e4b08e45b0a331ec0eca627
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_32
-      rect:
-        serializedVersion: 2
-        x: 558
-        y: 820
-        width: 16
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 99ca6cd4d7c640143b50f0f273d92c65
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_33
-      rect:
-        serializedVersion: 2
-        x: 575
-        y: 820
-        width: 6
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9429c9765bdb23d48a1834ae8da25621
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_34
-      rect:
-        serializedVersion: 2
-        x: 582
-        y: 816
-        width: 17
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2a5f97f5075bee4093a575274fadad1
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_35
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 515
-        width: 9
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5f06aa246c558a04cba5fcd2a11ed96a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_36
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 520
-        width: 11
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ddd2196e5e5eea847aef9a1685c0a52c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_37
-      rect:
-        serializedVersion: 2
-        x: 124
-        y: 520
-        width: 10
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e8bd5179e320c7248ad10908b1eae4ec
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_38
-      rect:
-        serializedVersion: 2
-        x: 135
-        y: 518
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 61cfbbb90320054408a21e783d4788ce
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_39
-      rect:
-        serializedVersion: 2
-        x: 149
-        y: 518
-        width: 8
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c0b77b930f84354b9288b98fb5f0373
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_40
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 520
-        width: 16
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ce103528706110c48a8bb10af0fc6808
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_41
-      rect:
-        serializedVersion: 2
-        x: 175
-        y: 520
-        width: 6
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 01d1673be5333e547816b34bb9559d00
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_42
-      rect:
-        serializedVersion: 2
-        x: 182
-        y: 516
-        width: 9
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f746a98e7b806d4494138adab7cef66
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_43
-      rect:
-        serializedVersion: 2
-        x: 502
-        y: 515
-        width: 9
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cd2c4e26d545bea41aa5be3ca4681255
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_44
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 520
-        width: 11
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa437cbb74d7a2e4dbad273509a8a2ba
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_45
-      rect:
-        serializedVersion: 2
-        x: 524
-        y: 520
-        width: 10
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cd30eebe090801242b2651dc3cd2d3c1
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_46
-      rect:
-        serializedVersion: 2
-        x: 535
-        y: 518
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f4eda5a28f4c7db49af434be8c079ace
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_47
-      rect:
-        serializedVersion: 2
-        x: 549
-        y: 518
-        width: 8
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f6155d7344364ba4b8a59ce63e1b7938
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_48
-      rect:
-        serializedVersion: 2
-        x: 558
-        y: 520
-        width: 16
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e9f59ee4118a76e4aa628d0bf323619b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_49
-      rect:
-        serializedVersion: 2
-        x: 575
-        y: 520
-        width: 6
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9a450d9b8b7dcf341acd753871d40330
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_50
-      rect:
-        serializedVersion: 2
-        x: 582
-        y: 516
-        width: 15
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2ad5d45c7a05edd4cbb8fdcc0a95a5d0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_51
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 215
-        width: 9
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 675d190a625387e49b6923271ba9c474
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_52
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 220
-        width: 11
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9c821e2b00943014988d601088a99d61
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_53
-      rect:
-        serializedVersion: 2
-        x: 124
-        y: 220
-        width: 10
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 73fb06959c7b7d947b9f6a63b84ec492
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_54
-      rect:
-        serializedVersion: 2
-        x: 135
-        y: 218
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 970524327ce59ed42a028e4257b0aab4
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_55
-      rect:
-        serializedVersion: 2
-        x: 149
-        y: 218
-        width: 8
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fc6ce5937ac8cda4bba93b95dd11d0fb
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_56
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 220
-        width: 16
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2a72f6bcaad14ec48a8dc82667375bc5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_57
-      rect:
-        serializedVersion: 2
-        x: 175
-        y: 220
-        width: 6
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 342611930fde7514e99e5476e56e3f03
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_58
-      rect:
-        serializedVersion: 2
-        x: 182
-        y: 216
-        width: 9
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5463dcb75c64002409ecb4a0f1cdcf6b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_59
-      rect:
-        serializedVersion: 2
-        x: 502
-        y: 215
-        width: 9
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 899d8f653005d9442976461cc166882e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_60
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 220
-        width: 11
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd047009bc578a64cbc17a7685a6b998
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_61
-      rect:
-        serializedVersion: 2
-        x: 524
-        y: 220
-        width: 10
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3a805ea188beed444a6ba89a4c2b0f01
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_62
-      rect:
-        serializedVersion: 2
-        x: 535
-        y: 218
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a6f2e8f7580ba6f47a9ab3af969465cf
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_63
-      rect:
-        serializedVersion: 2
-        x: 549
-        y: 218
-        width: 8
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4486f356d37718b4391607b1b95d17bd
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_64
-      rect:
-        serializedVersion: 2
-        x: 558
-        y: 220
-        width: 16
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4be09aff21621654a9a11d7847c408f3
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_65
-      rect:
-        serializedVersion: 2
-        x: 575
-        y: 220
-        width: 6
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ce237abd4f422d4787c74671ad5af0c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Logo_66
-      rect:
-        serializedVersion: 2
-        x: 582
-        y: 216
-        width: 15
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d30cd8318429a3346b740df31efc8aa0
+      spriteID: efec90de459e64f33b4d02c4892a5d7f
       vertices: []
       indices: 
       edges: []
