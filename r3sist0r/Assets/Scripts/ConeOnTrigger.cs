@@ -13,6 +13,7 @@ public class ConeOnTrigger : MonoBehaviour {
         if (o.gameObject.tag == "Player")
         {
             DroneAi.inViewCone = true;
+            DroneAi.chasing = true;
             Dronelight.alarm = true;
         }
     }
@@ -24,6 +25,7 @@ public class ConeOnTrigger : MonoBehaviour {
         if (o.gameObject.tag == "Player")
         {
             DroneAi.inViewCone = false;
+            DroneAi.chasing = false;
             Dronelight.alarm = false;
         }
     }
