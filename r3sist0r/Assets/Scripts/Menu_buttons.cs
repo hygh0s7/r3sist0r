@@ -1,10 +1,11 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class Menu_buttons : MonoBehaviour {
 public GameObject MenuPanel;
 public GameObject CharacterPanel;
+
 	// Use this for initialization
 	void Start () {
 		 MenuPanel.SetActive(true);
@@ -26,4 +27,6 @@ public GameObject CharacterPanel;
          MenuPanel.SetActive(true);
          CharacterPanel.SetActive(false);
      }
+     
+    
 }
