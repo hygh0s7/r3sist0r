@@ -174,10 +174,17 @@ TextureImporter:
       name: Game Logo_0
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 0
         y: 900
         width: 400
         height: 300
+=======
+        x: 93
+        y: 1102
+        width: 123
+        height: 57
+>>>>>>> parent of b5d34e2... Revert "Added ShootyBit Scripts (Not Working)"
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,7 +192,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: e9a94caac79b3a649b51228532de181c
+=======
+      spriteID: e86c3fa1e591145e7be3b0595c78cad0
+>>>>>>> parent of b5d34e2... Revert "Added ShootyBit Scripts (Not Working)"
       vertices: []
       indices: 
       edges: []
@@ -194,10 +205,17 @@ TextureImporter:
       name: Game Logo_1
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 400
         y: 900
         width: 400
         height: 300
+=======
+        x: 495
+        y: 1102
+        width: 127
+        height: 51
+>>>>>>> parent of b5d34e2... Revert "Added ShootyBit Scripts (Not Working)"
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,7 +223,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: 962aa278fc58c834f9bdf014a93734e5
+=======
+      spriteID: 71dbdfd99199a488b86578c8d5ecb6b2
+>>>>>>> parent of b5d34e2... Revert "Added ShootyBit Scripts (Not Working)"
       vertices: []
       indices: 
       edges: []
@@ -214,10 +236,17 @@ TextureImporter:
       name: Game Logo_2
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 0
         y: 600
         width: 400
         height: 300
+=======
+        x: 92
+        y: 803
+        width: 125
+        height: 51
+>>>>>>> parent of b5d34e2... Revert "Added ShootyBit Scripts (Not Working)"
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,7 +254,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: e83101eb89f235945b4791550d6afc5e
+=======
+      spriteID: 1c44b3dc944c8403b817cfdf446095ec
+>>>>>>> parent of b5d34e2... Revert "Added ShootyBit Scripts (Not Working)"
       vertices: []
       indices: 
       edges: []
@@ -234,10 +267,17 @@ TextureImporter:
       name: Game Logo_3
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 400
         y: 600
         width: 400
         height: 300
+=======
+        x: 484
+        y: 797
+        width: 140
+        height: 59
+>>>>>>> parent of b5d34e2... Revert "Added ShootyBit Scripts (Not Working)"
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,7 +285,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: f716b56aead6917479f8730305c489ee
+=======
+      spriteID: e5cf1776300c740efad30f083783dfdb
+>>>>>>> parent of b5d34e2... Revert "Added ShootyBit Scripts (Not Working)"
       vertices: []
       indices: 
       edges: []
@@ -254,10 +298,17 @@ TextureImporter:
       name: Game Logo_4
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 0
         y: 300
         width: 400
         height: 300
+=======
+        x: 88
+        y: 499
+        width: 131
+        height: 59
+>>>>>>> parent of b5d34e2... Revert "Added ShootyBit Scripts (Not Working)"
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,7 +316,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: 089a8c653579d364e92f8ae6f8fb9565
+=======
+      spriteID: f3fa0bc75a1394605826b1f81bd05c0e
+>>>>>>> parent of b5d34e2... Revert "Added ShootyBit Scripts (Not Working)"
       vertices: []
       indices: 
       edges: []
@@ -274,10 +329,17 @@ TextureImporter:
       name: Game Logo_5
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 400
         y: 300
         width: 400
         height: 300
+=======
+        x: 490
+        y: 505
+        width: 124
+        height: 43
+>>>>>>> parent of b5d34e2... Revert "Added ShootyBit Scripts (Not Working)"
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,7 +347,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: 1472791340d30794fa596dbeb468eeb3
+=======
+      spriteID: f1ceeaa9e26f24c818b5f1962a161fe8
+>>>>>>> parent of b5d34e2... Revert "Added ShootyBit Scripts (Not Working)"
       vertices: []
       indices: 
       edges: []
@@ -294,10 +360,17 @@ TextureImporter:
       name: Game Logo_6
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 0
         y: 0
         width: 400
         height: 300
+=======
+        x: 92
+        y: 203
+        width: 123
+        height: 49
+>>>>>>> parent of b5d34e2... Revert "Added ShootyBit Scripts (Not Working)"
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,7 +378,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: f18288fd1817bde4e94a89dd6778467b
+=======
+      spriteID: b444792cc248e4ecaa4937b9334f2620
+>>>>>>> parent of b5d34e2... Revert "Added ShootyBit Scripts (Not Working)"
       vertices: []
       indices: 
       edges: []
@@ -314,10 +391,17 @@ TextureImporter:
       name: Game Logo_7
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 400
         y: 0
         width: 400
         height: 300
+=======
+        x: 488
+        y: 203
+        width: 124
+        height: 47
+>>>>>>> parent of b5d34e2... Revert "Added ShootyBit Scripts (Not Working)"
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -325,7 +409,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: 53a5f142528d9d24fa994f1e157d67cf
+=======
+      spriteID: efec90de459e64f33b4d02c4892a5d7f
+>>>>>>> parent of b5d34e2... Revert "Added ShootyBit Scripts (Not Working)"
       vertices: []
       indices: 
       edges: []
